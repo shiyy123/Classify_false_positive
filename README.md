@@ -9,7 +9,8 @@
 - Learning a Classifier for False Positive Error Reports Emitted by Static Code Analysis Tools（史洋洋）
 - Learning a classifier for prediction of maintainability based on static analysis tools（史洋洋）
 - Using Machine Learning Techniques to Classify and Predict Static Code Analysis Tool Warnings（刘子夕）
-- Using Targeted Symbolic Execution for Reducing False-Positives in Dataflow Analysis（刘子夕）
+- <s> Using Targeted Symbolic Execution for Reducing False-Positives in Dataflow Analysis（刘子夕）</s>
+- Using Software Engineering Metrics to Evaluate the Quality of Static Code Analysis Tools（刘子夕）
 ## 源码扫描器
 - Improve Security Using Extensible Lightweight Static Analysis
 - ITS4- A Static Vulnerability Scanner for C and C++ Code
