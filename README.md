@@ -15,3 +15,5 @@
 - Improve Security Using Extensible Lightweight Static Analysis
 - ITS4- A Static Vulnerability Scanner for C and C++ Code
 - VulDeePecker A Deep Learning-Based System for Vulnerability Detection
+## 平台设计
+- 安全漏洞众包验证平台的设计与实现_仲逸秋
